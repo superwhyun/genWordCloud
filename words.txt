@@ -1,0 +1,1 @@
+You can now start customising it: chose the relevant mask you will apply to model the final wordcloud. It is best to chose one that has a good amount of contrast to get the best out of your wordcloud, also the mask picture size is crucial if you want to get an output that you can blow up significantly without too much pixelation. The bigger the picture, the better the cloud
